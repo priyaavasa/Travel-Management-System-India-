@@ -10,7 +10,6 @@ A **Java + MySQL desktop application** for managing tourism-related activities s
 - 🎒 **Package Booking** – Choose from predefined travel packages  
 - ❌ **Cancellations** – Cancel bookings easily with automatic updates  
 - 📊 **Admin Dashboard** – Centralized control for managing users, bookings, and packages  
-- 📩 **Notifications** – Confirmation after successful booking  
 
 ## 🛠️ Tech Stack  
 - **Programming Language**: Java (Swing)  
