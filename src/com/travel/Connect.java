@@ -11,7 +11,7 @@ public class Connect {
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/tms", "root", "Priyavasa@16");
+            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/tms", "root", "your_password");
             s = c.createStatement();
 
         } catch (Exception e) {
@@ -20,4 +20,5 @@ public class Connect {
     }
 
 }
+
 
